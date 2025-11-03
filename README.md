@@ -21,6 +21,11 @@ Oh and I also freelance. :-)
 
 ---
 
+## 🧰 Tech Stack & Tools
+Nuxt · Next.js · Laravel · WordPress · Tailwind · SCSS · MySQL · Node · MAMP Pro · Git · DeployHQ · Cloudflare · Hetzner Console · Laravel Forge · FileZilla · MampPro · Affinity Photo/Designer/Publisher · PostMan · HoppScotch · DBNgin · Prepros · Warp · TablePlus · Termius · Figma
+
+---
+
 ## 🛠️ What I Do
 
 - ✅ Full-stack development (Nuxt, Next, Laravel, WordPress)
