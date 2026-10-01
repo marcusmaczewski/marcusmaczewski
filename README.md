@@ -13,7 +13,7 @@
 
 ---
 
-I’m Marcus — a full-stack developer and lead developer at **Personalezonen**, specializing in modern web platforms, scalable architectures and user-focused product development.
+I’m Marcus — a full-stack developer and lead developer at, specializing in modern web platforms, scalable architectures and user-focused product development.
 
 I build platforms that solve real-world problems and streamline organizational workflows — especially in **esports**, **ticketing systems**, **property & guest management**, and **enterprise digitalization**.
 
